@@ -20,7 +20,7 @@
   </tr>
   <tr>
   <td>
-  <a href="https://github.com/nekooei/Advanced_Programming/tree/master/week02">week 1 added.</a>
+  <a href="https://github.com/nekooei/Advanced_Programming/tree/master/week01">week 1 added.</a>
   </td>
   <td>
   Changes
